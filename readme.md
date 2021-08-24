@@ -4,7 +4,7 @@ This extension is powered by `Jeevan Lal`.
 
 ## Files
 
-[API Documentation](https://github.com/jeevan15498/CodeIgniter-API-Controller#documentation)
+[API Documentation]
 
 * `\application\libraries\API_Controller.php`
 * `\application\helpers\api_helper.php`
@@ -306,10 +306,5 @@ $this->_APIConfig([
     'key' => ['post', $this->config->item('controller/api key name')],
 ]);
 ```
-
-## Reporting Issues
-
-If you have a problem with this plugin or found any bug, please open an issue on [GitHub](https://github.com/jeevan15498/CodeIgniter-API-Controller/issues).
-
 # License
 CodeIgniter API Controller is licensed under [MIT](http://www.opensource.org/licenses/MIT)
